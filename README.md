@@ -1,2 +1,2 @@
-# Aditya-weds-Srishti
+# index.html
 wedding
